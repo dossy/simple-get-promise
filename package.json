@@ -1,9 +1,9 @@
 {
-  "name": "simple-get-promise",
+  "name": "@dossy/simple-get-promise",
   "description": "Simple modern way to make http requests. Supports HTTPS, ES6, JSON and Promises",
   "repository": {
     "type": "git",
-    "url": "git@github.com:piuccio/simple-get-promise.git"
+    "url": "git@github.com:dossy/simple-get-promise.git"
   },
   "version": "3.0.0",
   "license": "Apache-2.0",
@@ -29,9 +29,9 @@
     "node": ">= 10"
   },
   "bugs": {
-    "url": "https://github.com/piuccio/simple-get-promise/issues"
+    "url": "https://github.com/dossy/simple-get-promise/issues"
   },
-  "homepage": "https://github.com/piuccio/simple-get-promise#readme",
+  "homepage": "https://github.com/dossy/simple-get-promise#readme",
   "directories": {
     "test": "test"
   },
@@ -42,5 +42,8 @@
     "request"
   ],
   "author": "Fabio Crisci <piuccio@gmail.com>",
+  "contributors": [
+    "Dossy Shiobara <dossy@panoptic.com>"
+  ],
   "dependencies": {}
 }
